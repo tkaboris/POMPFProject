@@ -10,7 +10,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
-//https://www.youtube.com/watch?v=KVwq-k3icIA
+// here project from https://www.youtube.com/watch?v=KVwq-k3icIA
 public class LoginTest {
 
     WebDriver driver;
